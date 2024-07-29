@@ -1,0 +1,6 @@
+TreeGen model by Randy González
+Published under the CC Attribution License
+https://sketchfab.com/3d-models/tree-gn-40da979cb23f492583ec89c4196cff4e
+
+Changes:
+- Added VertexColor.g to mask edge flutter
