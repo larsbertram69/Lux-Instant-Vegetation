@@ -1,3 +1,4 @@
+# Lux Instant Vegetation
 Lux Instant Vegetation consists of a set of shaders which add high quality procedural wind animations to pretty much any tree or bush mesh - almost instantly and without the need to bake bending information.  
 In case you want to improve the final result the shaders also support baked bending information from a bunch of different sources.
 
